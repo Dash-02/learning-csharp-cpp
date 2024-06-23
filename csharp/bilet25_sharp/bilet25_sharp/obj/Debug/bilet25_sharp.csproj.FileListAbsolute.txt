@@ -1,0 +1,7 @@
+C:\Users\Darlix\source\repos\learning-csharp-cpp\learning-csharp-cpp\csharp\bilet25_sharp\bilet25_sharp\bin\Debug\bilet25_sharp.exe.config
+C:\Users\Darlix\source\repos\learning-csharp-cpp\learning-csharp-cpp\csharp\bilet25_sharp\bilet25_sharp\bin\Debug\bilet25_sharp.exe
+C:\Users\Darlix\source\repos\learning-csharp-cpp\learning-csharp-cpp\csharp\bilet25_sharp\bilet25_sharp\bin\Debug\bilet25_sharp.pdb
+C:\Users\Darlix\source\repos\learning-csharp-cpp\learning-csharp-cpp\csharp\bilet25_sharp\bilet25_sharp\obj\Debug\bilet25_sharp.csproj.AssemblyReference.cache
+C:\Users\Darlix\source\repos\learning-csharp-cpp\learning-csharp-cpp\csharp\bilet25_sharp\bilet25_sharp\obj\Debug\bilet25_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Darlix\source\repos\learning-csharp-cpp\learning-csharp-cpp\csharp\bilet25_sharp\bilet25_sharp\obj\Debug\bilet25_sharp.exe
+C:\Users\Darlix\source\repos\learning-csharp-cpp\learning-csharp-cpp\csharp\bilet25_sharp\bilet25_sharp\obj\Debug\bilet25_sharp.pdb

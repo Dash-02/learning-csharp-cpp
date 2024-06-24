@@ -1,0 +1,4 @@
+﻿  bilet22_cpp.cpp
+C:\Users\Darlix\source\repos\learning-csharp-cpp\learning-csharp-cpp\cplusplus\bilet22_cpp\bilet22_cpp\bilet22_cpp.cpp(32,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Darlix\source\repos\learning-csharp-cpp\learning-csharp-cpp\cplusplus\bilet22_cpp\bilet22_cpp\bilet22_cpp.cpp(45,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  bilet22_cpp.vcxproj -> C:\Users\Darlix\source\repos\learning-csharp-cpp\learning-csharp-cpp\cplusplus\bilet22_cpp\x64\Debug\bilet22_cpp.exe

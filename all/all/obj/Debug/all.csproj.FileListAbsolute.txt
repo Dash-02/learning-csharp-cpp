@@ -1,0 +1,7 @@
+C:\Users\Darlix\source\repos\all\all\bin\Debug\all.exe.config
+C:\Users\Darlix\source\repos\all\all\bin\Debug\all.exe
+C:\Users\Darlix\source\repos\all\all\bin\Debug\all.pdb
+C:\Users\Darlix\source\repos\all\all\obj\Debug\all.csproj.AssemblyReference.cache
+C:\Users\Darlix\source\repos\all\all\obj\Debug\all.csproj.CoreCompileInputs.cache
+C:\Users\Darlix\source\repos\all\all\obj\Debug\all.exe
+C:\Users\Darlix\source\repos\all\all\obj\Debug\all.pdb
